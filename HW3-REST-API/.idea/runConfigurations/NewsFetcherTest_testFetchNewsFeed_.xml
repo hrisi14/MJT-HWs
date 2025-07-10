@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NewsFetcherTest.testFetchNewsFeed " type="JUnit" factoryName="JUnit">
+    <module name="HW3-REST-api" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.newsfetcher.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.newsfetcher" />
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="directory" />
+    <option name="VM_PARAMETERS" value="-ea -Dnet.bytebuddy.experimental=true" />
+    <dir value="$PROJECT_DIR$/test" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
